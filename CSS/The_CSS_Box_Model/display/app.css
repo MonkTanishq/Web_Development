@@ -1,0 +1,24 @@
+h1{
+    background-color: palegoldenrod;
+    border: 1px solid black;
+    display: inline;
+
+    /* To hide the lement but they are still present there.
+    display: none; */
+
+}
+
+span{
+    background-color: paleturquoise;
+    border: 1px solid black;
+    display: block;
+}
+
+div{
+    height: 200px;
+    width: 200px;
+    background-color: olivedrab;
+    border: 5px solid black;
+    display: inline-block;
+    margin: 50px;
+}

@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+}
+h1{
+    background-color: pink;
+    width: 100px;
+    padding-left: 100px;
+    padding-top: 50px;
+    margin: 0;
+}
+
+span{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+div{
+    width: 400px;
+    height: 100px;
+    background-color: #e5989b;
+}
+
+#one{
+    background-color: #e5989b;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    /* box-sizing: border-box; */
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+
+#two{
+    background-color: #b5838d;
+    border-color: #ffcdb2;
+    border-width: 3px;
+    border-style: dashed;
+    /* border-left-color: black; */
+    padding-right: 50px;
+    margin: 200px;
+
+    /* Apply to all four sides
+    margin: 10px;
+     
+    Vertical | horizontal
+    margin: 5px 10px;
+
+    Top | horizontal | bottom
+    margin: 1px 2px 2px;
+
+    Top | right | bottom | left
+    margin: 5px 1px 0 2px; */
+}
+
+#three{
+    background-color: #6d6875;
+    /* single property for style border */
+    border: 4px solid black;
+    border-radius: 50%;
+}
+
+button{
+    padding: 10px 20px 30px 40px;
+
+    /* Apply to all four sides
+    padding: 10px;
+     
+    Vertical | horizontal
+    padding: 5px 10px;
+
+    Top | horizontal | bottom
+    padding: 1px 2px 2px;
+
+    Top | right | bottom | left
+    padding: 5px 1px 0 2px; */
+
+}
+
+
