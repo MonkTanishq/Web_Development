@@ -1,0 +1,14 @@
+section{
+    width: 80%;
+    height: 800px;
+    /* BACKGROUND IMAGE */
+    background-image: url(https://images.unsplash.com/photo-1674723889494-d136af700127?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1243&q=80);
+    background-size: cover;
+    background-position: center;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 100px;
+    color: white;
+}
