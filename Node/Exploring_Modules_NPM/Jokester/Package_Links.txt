@@ -1,0 +1,2 @@
+Jokes: https://www.npmjs.com/package/give-me-a-joke
+Colors: https://www.npmjs.com/package/colors
